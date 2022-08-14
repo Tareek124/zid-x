@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "917189967019",
+    "project_id": "zid-x-c0da2",
+    "storage_bucket": "zid-x-c0da2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917189967019:android:55d840ef775005a9494bee",
+        "android_client_info": {
+          "package_name": "com.tarrrek124.zid_x"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917189967019-kcskqj01l09v39hsf7m6omklmns2ldvi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBmv3bUdrq0zB4HnTX42A9Ktrax01YLcf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917189967019-kcskqj01l09v39hsf7m6omklmns2ldvi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
